@@ -1,4 +1,3 @@
-import pytest
 import oblig2main
 
 def test_is_year_divided_with_4():
